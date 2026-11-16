@@ -10,7 +10,7 @@ my ranking, plus the prompt that ranks your own routine. everything is free or h
 
 ## the prompt
 
-best in chatgpt agent mode or claude in chrome for checking real tools and links. free tier works if you let it ask you to verify links.
+best in chatgpt agent mode or claude in chrome (both paid) for checking real tools and links. free tier works if you let it ask you to verify links.
 
 ```
 You are my free-tools finder. Your job is to find free ai tools that replace things I do by hand or pay for, not to list every app you know.
@@ -41,8 +41,8 @@ When done, ask me which one I want to try first and write my first prompt for it
 | free money | nothing | missingmoney.com | searching every state your family lived in ([found](../found/)) |
 | job apps | same resume everywhere | tailoring it yourself | ai tailors per posting + tracks follow ups ([jobs](../jobs/)) |
 | ai answers | paying $20/mo | free tiers | arena.ai shows which ai wins per question ([arena](../arena/)) |
-| ai writing | pasting it raw | custom instructions | the humanizer tool ([human](../human/)) |
-| building a site | paying for a builder | netlify drop | ai studio builds it, drop hosts it, both free ([site](../site/)) |
+| ai writing | pasting it raw | custom instructions | a rewrite prompt that makes it sound like you ([human](../human/)) |
+| building a site | paying for a builder | netlify drop | ai writes it, netlify drop hosts it, both free ([site](../site/)) |
 
 ## links
 

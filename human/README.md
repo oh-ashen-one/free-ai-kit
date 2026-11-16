@@ -4,7 +4,7 @@ wikipedia's editors keep a real list of the signs of ai writing:
 
 https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
 
-and there's a free open source tool built off that list that rewrites your text without changing what it means: https://github.com/blader/humanizer (that one's for people who use ai coding agents, if that's not you just use the prompts below).
+and there's a free open source tool built off that list that rewrites your text without changing what it means: https://github.com/blader/humanizer (that one's for coders. not a coder? skip it, the prompts below do the same thing).
 
 ## how to use this
 

@@ -2,13 +2,15 @@
 
 your name, home address, phone number and relatives are probably listed on these sites, free for anyone to look up. every one has a free opt out page. it takes an afternoon.
 
+never pay a removal service or any site that asks for money to delete you. every opt out on this list is free.
+
 ## how to use this
 
 1. open chatgpt.com (or the chatgpt app) or claude.ai
 2. copy everything in a box below
 3. paste it, fill in the [brackets] with your info, hit send
 
-want the ai to do the clicking for you? in chatgpt, tap + or the tools menu and turn on "agent mode" if you have it, or use claude in chrome. don't have it? the same prompt still works on the free app, you just do the clicking yourself and tell it what you see.
+want the ai to do the clicking for you? in chatgpt, tap + or the tools menu and turn on "agent mode" if you have it, or use claude in chrome. both are paid features. don't have it? the same prompt still works on the free app, you just do the clicking yourself and tell it what you see.
 
 ## prompt 1: walk me through it
 
@@ -29,7 +31,7 @@ DO THIS:
 4. Move to the next site and repeat until the whole list is done.
 
 MY LIST:
-spokeo.com/optout, beenverified.com/app/optout/search, whitepages.com/suppression-requests, suppression.peopleconnect.us (covers intelius, us search, instant checkmate and truthfinder), fastpeoplesearch.com/removal, nuwber.com/removal/link, radaris.com/control/privacy, thatsthem.com/optout, familytreenow.com/optout, mylife.com/ccpa/index.pubview, checkpeople.com/privacy-rights
+spokeo.com/optout, beenverified.com/app/optout/search, whitepages.com/suppression-requests, suppression.peopleconnect.us (covers intelius, us search, instant checkmate and truthfinder), fastpeoplesearch.com/removal, nuwber.com/removal/link, thatsthem.com/optout, familytreenow.com/optout, mylife.com/ccpa/index.pubview, checkpeople.com/privacy-rights
 
 RULES: One site at a time, plain words, no tech talk. Never pay for removal, every opt-out on my list is free. Never type my info anywhere except a site's real opt-out form. If a site wants a login, captcha or phone verification, pause and ask me first.
 
@@ -40,7 +42,7 @@ When done, ask me if you should build my monthly recheck checklist.
 
 ## prompt 2: let the ai do it
 
-best in chatgpt agent mode or claude in chrome, where the ai can drive the browser. it still asks before submitting anything.
+best in chatgpt agent mode or claude in chrome (both paid), where the ai can drive the browser. it still asks before submitting anything.
 
 ```
 You are my privacy removal agent. Your job is to visit each people-search site yourself, check if I'm listed, and file the free opt-outs. Not to advise me, to do it.
@@ -57,7 +59,7 @@ DO THIS:
 4. Update my tracker after every site.
 
 MY LIST:
-spokeo.com/optout, beenverified.com/app/optout/search, whitepages.com/suppression-requests, suppression.peopleconnect.us, fastpeoplesearch.com/removal, nuwber.com/removal/link, radaris.com/control/privacy, thatsthem.com/optout, familytreenow.com/optout, mylife.com/ccpa/index.pubview, checkpeople.com/privacy-rights
+spokeo.com/optout, beenverified.com/app/optout/search, whitepages.com/suppression-requests, suppression.peopleconnect.us, fastpeoplesearch.com/removal, nuwber.com/removal/link, thatsthem.com/optout, familytreenow.com/optout, mylife.com/ccpa/index.pubview, checkpeople.com/privacy-rights
 
 RULES: Only the real opt-out pages on my list, cite each link. Never pay or upgrade, removal is free. Never enter passwords or card numbers. Never submit a form without my explicit ok. If a site needs a login, captcha or phone verification, stop and hand it to me.
 

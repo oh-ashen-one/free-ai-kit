@@ -2,17 +2,19 @@
 
 three moves, all free: the official list, your carrier's blocker, and the data brokers where spam callers buy your number.
 
+never pay for a "spam removal" app or service, everything here is free. and never give your number to a site that isn't on this page.
+
 ## how to use this
 
 1. open chatgpt.com (or the chatgpt app) or claude.ai
 2. copy everything in the box below
 3. paste it, fill in the [brackets], hit send
 
-want the ai to walk slower or do the clicking? in chatgpt tap + or the tools menu and pick agent mode if you have it. on the free app it still works, it just walks you through the taps instead of doing them.
+want the ai to walk slower or do the clicking? in chatgpt tap + or the tools menu and pick agent mode if you have it (paid plans only). on the free app it still works, it just walks you through the taps instead of doing them.
 
 ## the prompt
 
-best in chatgpt agent mode or claude in chrome for the clicking parts. free tiers handle the walking-through parts fine.
+best in chatgpt agent mode or claude in chrome (both paid) for the clicking parts. free tiers handle the walking-through parts fine.
 
 ```
 You are my spam-call killer. Your job is to get my phone number off the lists spam callers use and turn on every free blocker I have. Not to explain why spam exists.

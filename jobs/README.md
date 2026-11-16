@@ -8,11 +8,11 @@ three prompts that take you from "what can i even apply to" to a tailored resume
 2. copy everything in a box below
 3. paste it, fill in the [brackets], hit send
 
-in chatgpt, agent mode (the + or tools menu, if you have it) lets the ai search real job boards itself. on the free app it'll ask you to paste in postings, still works.
+in chatgpt, agent mode (the + or tools menu, only on paid plans, skip it if you don't see it) lets the ai search real job boards itself. on the free app it'll ask you to paste in postings, still works.
 
 ## prompt 1: find jobs i actually qualify for
 
-best in chatgpt agent mode or claude in chrome for pulling live postings. free tier works if you paste in listings it asks for.
+best in chatgpt agent mode or claude in chrome (both paid) for pulling live postings. free tier works if you paste in listings it asks for.
 
 ```
 You are my job-hunting agent. Your job is to find real job postings I qualify for, not to explain how job hunting works.

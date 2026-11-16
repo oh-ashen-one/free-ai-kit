@@ -4,10 +4,14 @@ no more "i'll venmo you later". two ready-made files, or make your own with the 
 
 ## the easy way (2 minutes)
 
-1. download [roommate-bills.xlsx](roommate-bills.xlsx) (or [roommate-bills.csv](roommate-bills.csv) for the simplest version)
-2. open it in google sheets (sheets.google.com > file > import > upload) or excel
-3. put your roommates' names on the people tab, start logging bills on the expenses tab
-4. the balances tab shows who owes what, and anything unpaid for 30+ days turns red
+1. tap [roommate-bills.xlsx](roommate-bills.xlsx), then tap "view raw" or the download button to save it
+2. open it in google sheets:
+   - **on your phone:** install the free google sheets app, then open the downloaded file from your files or downloads and pick google sheets. tap the 3 dots > "save as google sheets" so it saves to your account.
+   - **on a computer:** go to sheets.google.com > file > import > upload, and drop the file in
+3. put your roommates' names on the people tab (one per row in column a, nothing else in that column), start logging bills on the expenses tab
+4. the balances tab shows who owes what, and anything unpaid for 30+ days turns red on the expenses tab
+
+[roommate-bills.csv](roommate-bills.csv) is a bare bones one-tab version with no red highlighting and room for only the 4 example bills. use the xlsx if you can.
 
 there's fake example data in it so you can see it working. delete it and log real bills. share the sheet with your roommates so nobody can say they didn't know.
 

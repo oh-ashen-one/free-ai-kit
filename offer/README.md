@@ -2,17 +2,19 @@
 
 price it from what actually sold, write the listing, and counter lowballs with comps instead of arguing.
 
+in the video i used chatgpt dots, which needs a paid chatgpt pro plan. this is the free way to do the same thing: the ai does the pricing and writes the replies, you hit send.
+
 ## how to use this
 
 1. open chatgpt.com (or the chatgpt app) or claude.ai
 2. copy everything in a box below
 3. paste it, fill in the [brackets], hit send
 
-in chatgpt, agent mode (the + or tools menu, if you have it) lets the ai pull sold listings itself. free tier works too, paste in what the search shows when it asks.
+in chatgpt, agent mode (the + or tools menu, only on paid plans, skip it if you don't see it) lets the ai pull sold listings itself. free tier works too, paste in what the search shows when it asks.
 
 ## prompt 1: the selling agent
 
-best in chatgpt agent mode or claude in chrome for pulling comps. free tier works if you feed it listings.
+best in chatgpt agent mode or claude in chrome (both paid) for pulling comps. free tier works if you feed it listings.
 
 ```
 You are my selling agent. Your job is to price my item from real sold listings, write the listing, and help me reply to buyers. Not to give me selling tips.

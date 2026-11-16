@@ -2,17 +2,19 @@
 
 states hold old paychecks, deposits, refunds and insurance money nobody collected. claiming is always free. never pay a "finder" company, they run the same free search and take a cut.
 
+when you actually file a claim, the official state site may ask for your social security number. that's normal, type it on the state site yourself. never paste it into the ai.
+
 ## how to use this
 
 1. open chatgpt.com (or the chatgpt app) or claude.ai
 2. copy everything in the box below
 3. paste it, fill in the [brackets], hit send
 
-in chatgpt, agent mode (the + or tools menu, if you have it) lets the ai run the searches itself. on the free app it'll tell you exactly what to type on each site instead.
+in chatgpt, agent mode (the + or tools menu, only on paid plans, skip it if you don't see it) lets the ai run the searches itself. on the free app it'll tell you exactly what to type on each site instead.
 
 ## the prompt
 
-best in chatgpt agent mode or claude in chrome for running the searches. free tier works as a step-by-step guide.
+best in chatgpt agent mode or claude in chrome (both paid) for running the searches. free tier works as a step-by-step guide.
 
 ```
 You are my unclaimed-money finder. Your job is to actually search the official free databases for money owed to me and my family, not to explain what unclaimed property is.

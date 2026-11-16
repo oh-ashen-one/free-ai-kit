@@ -10,6 +10,18 @@ i make short videos about the ai i actually use. each folder here is the free gu
 
 comment the keyword on my video and i'll dm you the link to that folder. or just browse the folders and take what you need, same thing.
 
+## never used ai before? start here
+
+1. open https://chatgpt.com (or the free chatgpt app) and make a free account. claude.ai or gemini.google.com work too.
+2. open the folder for your keyword. find the grey box with the prompt in it.
+3. copy the whole box. on your phone, the copy button is the little icon in the box's top right corner. no button? press and hold the text, select all, copy.
+4. paste it into the chat. anything in [brackets] is where your info goes, swap it out, brackets and all.
+5. hit send. it'll ask you questions if it needs more, just answer like you're texting.
+
+some folders say "agent mode" or "claude in chrome". those let the ai click around websites for you, but they're paid. you don't need them, every prompt works on the free app too.
+
+never paste passwords, card numbers or your social security number into any ai. and nothing here ever needs you to pay anyone.
+
 ## the keywords
 
 | comment | what it is |
@@ -24,14 +36,14 @@ comment the keyword on my video and i'll dm you the link to that folder. or just
 | ARENA | [arena](arena/) compare every ai free + my which-ai-for-what sheet |
 | MEMORY | [memory](memory/) see and delete what ai remembers about you |
 | OFFER | [offer](offer/) sell stuff and handle lowballs |
-| CODES | [codes](codes/) 20 photo style prompts for one pic |
+| CODES | [codes](codes/) 21 photo style prompts for one pic |
 | TOOLS | [tools](tools/) bad, good, great free ai for college |
 | CHEAP | [cheap](cheap/) shelf photo to real cheapest + meal plan |
-| SITE | [site](site/) build a real website for $0 |
+| SITE | [site](site/) build a real website for $0 (last step needs a laptop) |
 | HUMAN | [human](human/) stop your writing sounding like ai |
 | PHOTO | [photo](photo/) listing photo prompts that keep the item real |
 | SPLIT | [split](split/) roommate bill splitter, ready to copy |
-| EDIT | [edit](edit/) edit video by typing, free and open source |
+| EDIT | [edit](edit/) edit video by typing, free (needs a laptop) |
 
 ## about me
 

@@ -8,7 +8,7 @@ the master prompt list. everything runs on free tiers. each box is a standalone 
 2. copy a box below
 3. paste it, fill in the [brackets], hit send
 
-agent mode (chatgpt + or tools menu, if you have it) lets the ai do the clicking and searching. free app works too, it'll just ask you to paste back what it needs.
+agent mode (chatgpt + or tools menu, only on paid plans) lets the ai do the clicking and searching. free app works too, it'll just ask you to paste back what it needs.
 
 ## 1. bookings and calls i don't want to make
 
@@ -54,7 +54,7 @@ DO THIS:
 3. Write a word-for-word retention call script using the best competitor price you found.
 4. Check missingmoney.com for unclaimed money in my name, my state's program via unclaimed.org, and classaction.org plus topclassactions.com for open settlements I might qualify for.
 
-RULES: Real current prices only, cite links. Never invent a plan or price. Never pay anything or submit forms. Ask me before the script names a cancellation date.
+RULES: Real current prices only, cite links. Never invent a plan or price. Never pay anything or submit forms. Only list settlements I actually qualify for. Ask me before the script names a cancellation date.
 
 OUTPUT: fee table (fee / what it is / removable?) / plan comparison table / the call script / the free-money checklist.
 

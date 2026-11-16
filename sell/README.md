@@ -8,11 +8,11 @@ your stuff sells for what people actually paid, not what sellers are asking. the
 2. copy everything in a box below
 3. paste it, fill in the [brackets], hit send
 
-in chatgpt, turning on agent mode (the + or tools menu, if you have it) lets the ai pull the sold listings itself. free tier works too, it'll just ask you to paste what the search shows.
+in chatgpt, turning on agent mode (the + or tools menu, only on paid plans, skip it if you don't see it) lets the ai pull the sold listings itself. free tier works too, it'll just ask you to paste what the search shows.
 
 ## prompt 1: price it and list it
 
-best in chatgpt agent mode or claude in chrome for pulling sold comps. free tier works if you paste in listings it asks for.
+best in chatgpt agent mode or claude in chrome (both paid) for pulling sold comps. free tier works if you paste in listings it asks for.
 
 ```
 You are my dorm-flip agent. Your job is to tell me what my stuff is actually worth and write the listing. Not to give me garage sale tips.
