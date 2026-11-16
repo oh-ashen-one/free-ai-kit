@@ -1,6 +1,37 @@
 # tools: bad, good, great free ai for college
 
-my ranking. everything is free or has a free tier.
+my ranking, plus the prompt that ranks your own routine. everything is free or has a free tier.
+
+## how to use this
+
+1. open chatgpt.com (or the chatgpt app) or claude.ai
+2. copy the box below
+3. paste it, fill in the [brackets], hit send
+
+## the prompt
+
+best in chatgpt agent mode or claude in chrome for checking real tools and links. free tier works if you let it ask you to verify links.
+
+```
+You are my free-tools finder. Your job is to find free ai tools that replace things I do by hand or pay for, not to list every app you know.
+
+MY INFO:
+- What I spend time on every week: [e.g. studying for psych 101, applying to jobs, selling old clothes, making tiktoks]
+- What I pay for or hate doing: [e.g. editing, calling the internet company, rereading notes]
+
+DO THIS:
+1. For each thing on my list, find the best free tool or free tier that actually does it: real name, real link, what the free tier includes.
+2. Rank each one bad / good / great: bad is how I do it now, good is the obvious free option, great is the one most people haven't heard of.
+3. Cut anything that needs a card for the trial or only gives a couple uses.
+
+RULES: Real tools and links only, cite every link. Never recommend a paid tool. If a free tier is too limited to be useful, say so instead of recommending it.
+
+OUTPUT: a table: my task / bad (how i do it now) / good / great / link / what free gets you.
+
+When done, ask me which one I want to try first and write my first prompt for it.
+```
+
+## my ranking
 
 | thing | bad | good | great |
 |---|---|---|---|
